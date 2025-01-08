@@ -1,4 +1,3 @@
 # git_test
 Git test from Odin Project
-
-Hello Odin!
+Hello Odin! Editing again
